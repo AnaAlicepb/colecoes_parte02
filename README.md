@@ -47,8 +47,10 @@
         <li><strong>Coleções:</strong> Utilização de <code>ArrayList</code> para armazenar e manipular listas de pessoas.</li>
         <li><strong>Scanner:</strong> Utilização da classe <code>Scanner</code> para ler a entrada do usuário.</li>
         <li><strong>Ordenação:</strong> Utilização de <code>Collections.sort</code> e <code>Comparator</code> para ordenar as listas de pessoas.</li>
+        <li><strong>Divisão de String:</strong> Utilização do comando <code>split</code> para dividir a entrada de dados.</li>
     </ul>
 </section>
+
 
 <section id="estrutura-dos-arquivos">
     <h2>Estrutura dos Arquivos</h2>
