@@ -6,13 +6,15 @@
     <meta name="description" content=" ">
     <meta name="keywords" content="">
     <meta name="author" content="Ana Alice Rodrigues">
-    <title>Organizador de Pessoas</title>
 </head>
 <body>
 
 <header>
     <h1>Organizador de Pessoas</h1>
-    <img src="" alt="img" width="300" height="auto">
+    <img src="./img/ordenando01.png" alt="01" width="300" height="auto">
+    <img src="./img/ordenando02.png" alt="02" width="300" height="auto">
+    <img src="./img/ordenando03.png" alt="03" width="300" height="auto">
+    <img src="./img/ordenando04.png" alt="04" width="300" height="auto">
 </header>
 
 <details>
@@ -77,7 +79,6 @@
     <h2>Contato</h2>
     <ul>
         <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
-        
     </ul>
 
 </section>
